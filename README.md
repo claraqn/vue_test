@@ -1,5 +1,9 @@
 # lhw_vue_project
 
+## practice vue.js
+- https://kr.vuejs.org/v2/guide/
+- https://rintiantta.github.io/jpub-vue/tutorials/todo.html
+
 ## Project setup
 ```
 npm install
